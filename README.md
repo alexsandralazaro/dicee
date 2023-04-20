@@ -1,5 +1,7 @@
 # Dicee Game
 
+[![GitHub](https://img.shields.io/github/license/alexsandralazaro/dicee)](https://github.com/alexsandralazaro/dicee/blob/main/licence)
+
 ![Title Section](https://github.com/alexsandralazaro/dicee/blob/main/assets/dicee.png)
 
 # Sobre o projeto
